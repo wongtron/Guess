@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_limit_3" android:title="Limit to 3 guesses"></item>
+    <item android:id="@+id/menu_no_limit" android:title="Unlimited guesses"></item>
+    <item android:id="@+id/menu_no_step" android:title="Do not memorize steps"></item>
+    <item android:id="@+id/menu_step" android:title="Memorize steps"></item>
+    <item android:id="@+id/menu_quit" android:title="結束"></item>
+</menu>
